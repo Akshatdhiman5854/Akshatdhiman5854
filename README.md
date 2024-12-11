@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi Akshat Dhiman 👋! It's a pleasure to meet you! I'm excited to hear that you're actively engaged in ML Progressive Projects. As a dedicated and passionate Computer Science engineer, you've been making significant strides in the field of Machine Learning, pushing the boundaries of what's possible through innovative projects and solutions. <br>Shoot me on akshatdhiman821@gmail.com or add me on https://www.linkedin.com/in/akshat-dhiman-3851171b2/
+Hi Akshat Dhiman 👋! It's a pleasure to meet you! I'm excited to share that i'm actively engaged in ML Progressive Projects. As a dedicated and passionate Computer Science engineer, i've been making significant strides in the field of Machine Learning, pushing the boundaries of what's possible through innovative projects and solutions. <br>Shoot me on akshatdhiman821@gmail.com or add me on https://www.linkedin.com/in/akshat-dhiman-3851171b2/
 
 
 ## 🌐 Socials:
