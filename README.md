@@ -1,7 +1,5 @@
 # Hi there, I'm Akshat Dhiman👋
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
-
 I'm a **final-year BTech student** with a passion for **technology**, **machine learning**, and **AI**. Currently exploring **Generative AI** and working on a variety of projects that combine my skills in **Python**, **Java**, and **DSA**.
 
 ## 🚀 About Me
