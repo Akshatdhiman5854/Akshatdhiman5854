@@ -1,66 +1,27 @@
-# Hi there, I'm Akshat Dhiman👋
+# 💫 About Me:
+I'm a final year B.Tech student with a passion for technology, Machine Learning, and AI. I'm Current Exploring Generative AI and working on a variety of projects that combine my skills in python, java, DSA, and more<br><br>💻 Skills: Python, Java, Machine Learning, Data Structures & Algorithms (DSA)<br>🧠 Currently exploring Generative AI, experimenting with models like Ollama, GPT-3, DALL·E, and more.<br>🎯 Strong problem-solving skills and always learning new technologies.<br>🌱 Interested in deep learning, reinforcement learning, and AI-driven innovation.<br>🏅 LeetCode: Solved 400+ questions across different topics and difficulty levels.
 
-I'm a **final-year BTech student** with a passion for **technology**, **machine learning**, and **AI**. Currently exploring **Generative AI** and working on a variety of projects that combine my skills in **Python**, **Java**, and **DSA**.
 
-## 🚀 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-dhiman-3851171b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatdhiman821@gmail.com) 
 
-- 💻 **Skills**: Python, Java, Machine Learning, Data Structures & Algorithms (DSA)
-- 🧠 Currently exploring **Generative AI**, experimenting with models like GPT-3, DALL·E, and more.
-- 🎯 Strong problem-solving skills and always learning new technologies.
-- 🌱 Interested in **deep learning**, **reinforcement learning**, and **AI-driven innovation**.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshatdhiman5854&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Akshatdhiman5854&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatdhiman5854&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akshatdhiman5854&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🛠️ Tech Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akshatdhiman5854&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Akshatdhiman5854&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 What I'm Learning
-
-- Exploring **Generative AI**: Text, image, and code generation using GPT, DALL·E, and other models.
-- Diving deeper into **deep learning**, **reinforcement learning**, and **AI ethics**.
-- Enhancing problem-solving skills with **advanced algorithms** and **data structures**.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshatdhiman5854&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 📞 Get in Touch
-
-- 📧 **Email**: [akshatdhiman821@gmail.com](mailto:akshatdhiman821@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/akshat-dhiman-3851171b2](https://www.linkedin.com/in/akshat-dhiman-3851171b2/)
-
-
-Feel free to explore my repositories, connect, or ask me anything. I'm always open to discussing technology, AI, and new opportunities. 😄
-
----
-
-## 🔍 Fun Facts
-
-- I love solving coding challenges and competing in hackathons.
-- When I'm not coding, I enjoy **reading** about AI, **playing chess**, and **watching tech talks**.
-- My favorite programming language is **Python** (because, who doesn't love it?).
-
----
-
-## 💬 Support & Contributions
-
-If you find my projects helpful or interesting, feel free to **star** them ⭐ or leave an issue if you have any suggestions or improvements. I appreciate contributions! 🙌
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
